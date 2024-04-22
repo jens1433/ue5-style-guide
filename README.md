@@ -392,10 +392,10 @@ When naming an asset, use these tables to determine the prefix and suffix to use
 | Asset Type              | Prefix     | Suffix     | Notes                            |
 | ----------------------- | ---------- | ---------- | -------------------------------- |
 | Blueprint               | BP_        |            |                                  |
-| Blueprint Component     | BP_        | Component  | I.e. BP_InventoryComponent       |
-| Blueprint Function Library | BPFL_   |            |                                  |
+| Actor Component         | AC_        | Component  | I.e. AC_Inventory                |
+| Blueprint Function Library | BFL_   |            |                                   |
 | Blueprint Interface     | BPI_       |            |                                  |
-| Blueprint Macro Library | BPML_      |            | Do not use macro libraries if possible. |
+| Blueprint Macro Library | BML_      |            | Do not use macro libraries if possible. |
 | Enumeration             | E          |            | No underscore.                   |
 | Structure               | F or S     |            | No underscore.                   |
 | Tutorial Blueprint      | TBP_       |            |                                  |
